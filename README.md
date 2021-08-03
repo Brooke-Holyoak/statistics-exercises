@@ -1,0 +1,1 @@
+This is a repo for exercise work done in Codeup for Statistics and Probability.
